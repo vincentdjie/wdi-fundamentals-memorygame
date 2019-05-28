@@ -42,6 +42,10 @@ var flipCard = function(cardId) {
 	console.log(cards[cardId].suit);
 }
 
-
-
+function(createBoard) {
+for (var i = 0; i < arrayName.length; i++) {
+    var cardElement = document.createElement('img');
+    cardElement.setAttribute('attributeName', 'attributeValue')
+}
+}
 
